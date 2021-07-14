@@ -1,5 +1,5 @@
 # nrsa_database
-University work of a Database with Oracle SQL, which the goal is to store data of drivers, vehicles, and their road infractions to the system of National Road Safety Authority. 
+University work of a database with Oracle SQL, whose purpose was to store the driver’s and vehicle’s data as well as their road infractions in the National Road Safety Authority’s system.
 
 Database schem:
 
